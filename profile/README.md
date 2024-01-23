@@ -1,6 +1,6 @@
 ## Hello
 
-We are working on a framework for Streamers or developers to create bots, applications, plugins, etc.
+We are working on a framework for streamers or developers to create bots, applications, plugins, etc.
 
 We have three goals:
 
